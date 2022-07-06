@@ -1,0 +1,5 @@
+package sintactico.model;
+
+public enum Tokens {
+    SUMA,IGUAL,RESTA,MULTIPLICACION,INCREMENT,NUMERO,ERROR,P_RESERVADA,VARIABLE, P_COMA;
+}
